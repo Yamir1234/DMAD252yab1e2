@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DMAD252yab1e2</string>
+    <string name="p1titulo">Agenda en Android</string>
+    <string name="lnombre">Ingrese nombre</string>
+    <string name="hnombre">Aqui nombre</string>
+    <string name="ledad">Ingrese edad</string>
+    <string name="hedad">Aqui edad</string>
+    <string name="lcorreo">Ingrese correo</string>
+    <string name="hcorreo">Aqui correo</string>
+    <string name="p1btnnuevo">Nuevo</string>
+    <string name="p1btneditar">Editar</string>
+    <string name="p1btneliminar">Elimina</string>
+    <string name="Graba1">Grabar</string>
+    <string name="Graba2">Grabar</string>
+    </resources>
